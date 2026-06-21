@@ -1,8 +1,10 @@
-Databricks has two modes:
+## Databricks has two modes:
 
 **Edit mode** = typing inside a cell
 **Command mode** = controlling the whole cell
 Press **Esc** to go to command mode, and **Enter** to go back to edit mode. ([Databricks Docs][1])
+
+
 
 ### Must-know shortcuts
 
